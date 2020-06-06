@@ -28,7 +28,7 @@ Cython==0.29.15
 decorator==4.4.2
 defer==1.0.6
 distlib==0.3.0
-Django==3.0.4
+Django==3.0.7
 dnspython==1.16.0
 docutils==0.15.2
 easygui==0.98.1
